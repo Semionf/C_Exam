@@ -1,0 +1,4 @@
+﻿  q3.c
+C:\Users\User\source\repos\C_Exam\C_Exam\q3.c(54,29): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\User\source\repos\C_Exam\C_Exam\q3.c(42,20): warning C4101: 'ch': unreferenced local variable
+  C_Exam.vcxproj -> C:\Users\User\source\repos\C_Exam\x64\Debug\C_Exam.exe

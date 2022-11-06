@@ -73,6 +73,6 @@ int main2()
         exit(1);
 
     }
-
+    free(arrPtr); // free allocated array
     return 0;
 }
